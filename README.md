@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @thiagorodriguesdeveloper
+- 👀 I’m interested in HTML,CSS,JavaScript.
+- 🌱 I’m currently learning Front-end/Back-end
+- 💞️ I’m looking to collaborate on Front-End.
